@@ -1,4 +1,6 @@
 # ROARSounds
+
+**Author:** Babuni.dev
 Adds original sounds to the /roar emote by playing the built-in roar sounds that already exist in the client. The addon listens to nearby emote chat and restores roar audio for your own roars, as well as for party members, raid members, and your current target when their /roar emote is detected.
 
 

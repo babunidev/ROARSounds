@@ -5,3 +5,11 @@ Adds original sounds to the /roar emote by playing the built-in roar sounds that
 
 
 To install, download the zip and extract to your Addons folder, or download .toc and .lua and place in a new folder (ROAR) in the Addon folder: World of Warcraft\Interface\AddOns\ROAR
+
+## Development documentation
+
+- [Concept](CONCEPT.md) · [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
+- [Architecture](docs/ARCHITECTURE.md) · [Design evidence](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
+- [AI collaborator rules](AGENTS.md)
+
+The journal distinguishes source-based reconstruction, author direction, AI assistance, and independently verified behavior.
